@@ -1,1 +1,1 @@
-# My Nextwave coding practice projects
+# My Nextwave coding practice projects.
