@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto:wght@400;700&display=swap");
+
+.background-image {
+    background-image: url("https://300mind.studio/blog/wp-content/uploads/2023/08/Impacts-of-AR-VR-in-the-Gaming-Industry.webp");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.text {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-size: 35px;
+    padding: 15px 0px 0px 10px;
+}
+
+.para {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.button1 {
+    background-color: #ffffff;
+    color: #171f46;
+    font-family: Roboto;
+    font-size: 20px;
+    height: 50px;
+    width: 180px;
+    margin: 12px;
+    border-radius: 10px;
+    border-color: #d7dfe9;
+}
+
+.button2 {
+    background-color: #5752ab;
+    color: #ffffff;
+    font-size: 20px;
+    height: 50px;
+    width: 180px;
+    font-family: Roboto;
+    border-radius: 10px;
+    margin: 12px;
+    border-color: #d7dfe9;
+}
