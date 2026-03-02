@@ -16,8 +16,8 @@ This project was built as part of my NxtWave frontend practice.
 - Improving UI clarity and readability
 
 ## Tech Stack
-HTML  
-CSS  
+HTML
+CSS
 Bootstrap 4
 
 Practice Project – NxtWave Frontend Learning
