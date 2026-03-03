@@ -1,0 +1,54 @@
+.bg-container {
+    background-color: #ff8348;
+    min-height: 100vh;
+    padding: 16px;
+    margin-top: 10px;
+}
+
+.carousel-image {
+    height: 40vh;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.content-row {
+    margin-top: 16px;
+}
+
+.heading {
+    color: white;
+    font-family: Roboto;
+    margin: 0;
+}
+
+.small-heading {
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.para {
+    color: white;
+    font-family: Roboto;
+    margin-top: 12px;
+    line-height: 1.6;
+}
+
+.button1 {
+    color: #ff8348;
+    background-color: white;
+    height: 44px;
+    width: 130px;
+    border: none;
+    border-radius: 10px;
+}
+
+.movie-row {
+    margin-top: 12px;
+}
+
+.images {
+    height: 150px;
+    width: 120px;
+    margin-right: 16px;
+    border-radius: 8px;
+}
